@@ -11,9 +11,9 @@ type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Federal Government
-  - Trade
-  - Intellectual Property
   - Government Data
+  - Intellectual Property
+  - Trade
 url: >-
   https://raw.githubusercontent.com/api-evangelist/international-trade-commission/refs/heads/main/apis.yml
 created: '2024-12-03'
@@ -27,8 +27,8 @@ apis:
       data, including import and export data by commodity and country.
     humanURL: https://www.usitc.gov/data/index.htm
     tags:
-      - Trade Data
       - Federal Government
+      - Trade Data
     properties:
       - type: Documentation
         url: https://www.usitc.gov/data/index.htm
