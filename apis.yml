@@ -40,6 +40,8 @@ apis:
       - type: Signup
         url: https://dataweb.usitc.gov/user/register
 common:
+  - type: DomainSecurity
+    url: security/international-trade-commission-domain-security.yml
   - type: Website
     url: https://www.usitc.gov/
   - type: Data
