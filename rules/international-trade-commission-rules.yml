@@ -1,14 +1,14 @@
-aid: international-trade-commission
-name: International Trade Commission Rules
+x-aid: international-trade-commission
+x-name: International Trade Commission Rules
 description: >-
   Validation, governance, and operational rules applied to the International
   Trade Commission APIs.json index and any associated machine-readable
   artifacts.
-type: government
-profile:
+x-type: government
+x-profile:
   - apis.json
   - openapi
-governance:
+x-governance:
   source: api-evangelist
   steward: Kin Lane
   visibility: public
