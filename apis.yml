@@ -34,7 +34,7 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/international-trade-commission.png
 tags:
-  - Federal-Government
+  - Federal Government
   - Government Data
   - Intellectual Property
   - Trade
@@ -45,6 +45,7 @@ tags_raw:
   - Intellectual Property
   - Trade
   - Tariffs
+  - Federal-Government
 url: >-
   https://raw.githubusercontent.com/api-evangelist/international-trade-commission/refs/heads/main/apis.yml
 created: '2024-12-03'
