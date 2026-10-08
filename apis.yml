@@ -70,6 +70,12 @@ apis:
       - type: Signup
         url: https://dataweb.usitc.gov/user/register
 common:
+  - type: Plans
+    url: plans/international-trade-commission-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/international-trade-commission-rate-limits.yml
+  - type: FinOps
+    url: finops/international-trade-commission-finops.yml
   - type: DomainSecurity
     url: security/international-trade-commission-domain-security.yml
   - type: Website
