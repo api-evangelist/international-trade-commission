@@ -1,4 +1,4 @@
-# International Trade Commission (international-trade-commission)
+# International Trade Commission
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,64 +64,107 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-The United States International Trade Commission (USITC) is an independent,
-nonpartisan, quasi-judicial federal agency that fulfills a range of
-trade-related mandates. USITC provides high-quality analysis of international
-trade issues to the President and Congress, and serves as a forum for the
-adjudication of intellectual property and trade disputes. The USITC DataWeb
-exposes U.S. trade and tariff statistics for interactive query.
+The United States International Trade Commission (USITC) is an independent, nonpartisan, quasi-judicial federal agency that fulfills a range of trade-related mandates. The USITC provides high-quality analysis of international trade issues to the President and the Congress, and serves as the primary forum for the adjudication of intellectual property and trade disputes. The agency exposes U.S. trade and tariff statistics through the USITC DataWeb interactive data service.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/international-trade-commission/refs/heads/main/apis.yml)
+**Areas:** Federal Government · Government Data · Intellectual Property · Trade · Tariffs
 
-## Scope
+## International Trade Commission on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for International Trade Commission is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/international-trade-commission/](https://apis.io/providers/international-trade-commission/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### APIs (1)
 
-- Federal Government
-- Government Data
-- Intellectual Property
-- Trade
-- Tariffs
+- [USITC DataWeb](https://apis.io/apis/international-trade-commission/usitc-dataweb/) — The USITC DataWeb provides interactive access to U.S. international trade statistics and U.S. tariff data, including imports, exports, and production by…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2024-12-03
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Governance rules (1)
 
-### USITC DataWeb
+Spectral rulesets for the provider's contracts.
 
-The USITC DataWeb provides interactive access to U.S. international trade
-statistics and U.S. tariff data, including imports, exports, and production
-by commodity and country.
+- [International Trade Commission API Rules](https://apis.io/rules/international-trade-commission/international-trade-commission-rules/)
 
-**Human URL:** [https://dataweb.usitc.gov/](https://dataweb.usitc.gov/)
+#### Security (1)
 
-**Base URL:** https://dataweb.usitc.gov/
+Authentication, trust centre, and vulnerability disclosure.
 
-#### Tags
+- [International Trade Commission Domain Security](https://apis.io/security/international-trade-commission/international-trade-commission-domain-security/)
 
-- Trade Data
-- Tariffs
-- Statistics
+#### Plans and pricing (1)
 
-#### Properties
+Published plans, tiers and prices.
 
-- [Documentation](https://dataweb.usitc.gov/)
-- [SignUp](https://dataweb.usitc.gov/user/register)
+- [International Trade Commission Plans Pricing](https://apis.io/plans/international-trade-commission/international-trade-commission-plans-pricing/)
 
-## Common Properties
+#### Rate limits (1)
+
+Published request limits.
+
+- [International Trade Commission Rate Limits](https://apis.io/rate-limits/international-trade-commission/international-trade-commission-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [International Trade Commission Finops](https://apis.io/finops/international-trade-commission/international-trade-commission-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.usitc.gov/)
-- [Data](https://www.usitc.gov/data/index.htm)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 10.7** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Government & Public Sector
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/international-trade-commission/](https://apis.io/providers/international-trade-commission/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for International Trade Commission: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/international-trade-commission/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
